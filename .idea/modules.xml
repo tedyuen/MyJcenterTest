@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TedTest.iml" filepath="$PROJECT_DIR$/TedTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proportionimageview/proportionimageview.iml" filepath="$PROJECT_DIR$/proportionimageview/proportionimageview.iml" />
     </modules>
   </component>
 </project>
